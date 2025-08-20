@@ -1,5 +1,5 @@
 {
-  "name": "@pinia/colada-nuxt",
+  "name": "@byc/pinia-colada-nuxt",
   "publishConfig": {
     "access": "public"
   },
